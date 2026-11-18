@@ -1,0 +1,6 @@
+[
+  { "name": "1-title.png",   "query": "?shot=start&seed=1337" },
+  { "name": "2-play.png",    "query": "?shot=play&seed=1337" },
+  { "name": "3-upgrade.png", "query": "?shot=upgrade&seed=1337" },
+  { "name": "4-end.png",     "query": "?shot=end&seed=1337" }
+]
